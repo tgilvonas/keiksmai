@@ -1,2 +1,4 @@
 /keiksmai/__pycache__/
+/keiksmai_frontend/__pycache__/
 /polls/__pycache__/
+db.sqlite3
